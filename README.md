@@ -1,2 +1,2 @@
 # Golang
-some script of Golang
+Available code of Golang
